@@ -5,11 +5,11 @@
     box-sizing: border-box;
 }
 body, html {
-    height: 50%;
+    height: 100%;
     margin: 0;
     padding: 0;
     
-    color: #fff000;
+    color: #c1c1c1;
     background-color: #c0c0000;
 }
 body {
